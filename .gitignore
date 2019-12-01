@@ -1,0 +1,9 @@
+# ignore everything except the notebooks that stat with
+# MM_. These are
+# the working notebooks created during the classes. They do not include the 
+# projects at each of the modules.
+/*/*
+!**/MM_*
+Untitled*
+Thumbs*
+!.gitignore
